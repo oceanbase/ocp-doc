@@ -11,7 +11,7 @@
 3.host-features=主机功能
 5.obproxy=OBProxy 功能
 6.backup-and-restoration=备份恢复功能
-7.system-management-features-系统管理功能
+7.system-management-features=系统管理功能
 8.user-center=个人中心
 4.password-box=密码箱
 4.manage-clusters=管理集群
@@ -33,7 +33,7 @@
 10.using-system-management=使用系统管理
 14.use-the-inspection-feature=使用巡检功能
 11.ocp-based-management-of-multiple-clusters=管理多集群模式 OCP
-12.ocp-management-in-multi-az-mod管理多 AZ 模式 OCP
+12.ocp-management-in-multi-az-mod=管理多 AZ 模式 OCP
 13.appendix=附录
 4.alarm-reference=告警参考
 2.ob-alert=OB 告警
