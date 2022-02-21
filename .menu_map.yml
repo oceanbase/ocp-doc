@@ -16,6 +16,8 @@
 4.password-box=密码箱
 4.manage-clusters=管理集群
 2.basic-operations=集群基础操作
+7.merge-management=合并管理
+8.parameters=参数管理
 6.manage-cluster-zones=管理集群 Zone
 7.manage-the-observer-cluster=管理集群 OBServer
 9.merge-management=合并管理
