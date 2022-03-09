@@ -1,5 +1,5 @@
 1.product-introduction=产品简介
-4.restrictions=使用限制
+5.restrictions=使用限制
 2.deployment-guide=部署指南
 3.installation-planning=安装规则
 5.prepare-metadb-and-monitordb=准备 MetaDB 和 MonitorDB
@@ -15,7 +15,7 @@
 8.user-center=个人中心
 4.password-box=密码箱
 4.manage-clusters=管理集群
-2.basic-operations=集群基础操作
+3.basic-operations=集群基础操作
 7.merge-management=合并管理
 8.parameters=参数管理
 6.manage-cluster-zones=管理集群 Zone
