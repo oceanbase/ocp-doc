@@ -16,6 +16,7 @@
 2.basic-operations=Basic cluster operations
 6.manage-a-zones=Manage zones of a cluster
 7.manage-observer=Manage OBServers of a cluster
+8.backup-and-recovery=Backup and recovery
 6.cluster-resource-management=Cluster resource management
 7.merge-management=Major compaction management
 9.parameters-1=Manage parameters

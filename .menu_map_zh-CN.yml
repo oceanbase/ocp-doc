@@ -16,6 +16,7 @@
 2.basic-operations=集群基础操作
 6.manage-a-zone=管理集群 Zone
 7.manage-observer=管理集群 OBServer
+8.backup-and-recovery=集群备份恢复
 6.cluster-resource-management=集群资源管理
 7.merge-management=租户合并管理
 9.parameters-1=参数管理
