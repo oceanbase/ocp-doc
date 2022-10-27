@@ -1,4 +1,4 @@
-1.product-introduction=产品简介
+2.product-introduction=产品简介
 4.restrictions=使用限制
 3.deployment-guide=部署指南
 3.installation-planning=安装规则
@@ -12,7 +12,7 @@
 6.monitoring-1=告警管理功能
 7.system-management-features-1=系统管理功能
 8.user-center=个人中心
-4.clusters-features=管理集群
+4.cluster-features=管理集群
 2.basic-operations=集群基础操作
 6.manage-a-zone=管理集群 Zone
 7.manage-observer=管理集群 OBServer
