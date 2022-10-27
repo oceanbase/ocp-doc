@@ -17,7 +17,8 @@
 6.manage-a-zone=管理集群 Zone
 7.manage-observer=管理集群 OBServer
 6.cluster-resource-management=集群资源管理
-7.merge-management=租户合并管理
+7.merge-management=集群合并管理
+8.backup-and-recovery=集群备份恢复
 9.parameters-1=参数管理
 5.tenant-functions=管理租户
 2.manage-basic-tenant-operations=租户基础操作
@@ -51,6 +52,7 @@
 12.ob-user-and-permission-management=OB 用户与权限管理
 13.ocpagent-management=OCP Agent 管理
 14.sql-performance=SQL 性能
+15.backup-and-restoration-3=备份恢复
 16.other=其它
 17.appendix-1=附录
 1.oceanbase-cloud-platform-documentation=OceanBase 云平台文档
