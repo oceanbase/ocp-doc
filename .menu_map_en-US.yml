@@ -14,11 +14,11 @@
 8.user-center=Personal center
 4.cluster-features=Manage clusters
 2.basic-operations=Basic cluster operations
-6.manage-a-zones=Manage zones of a cluster
+6.manage-a-zone=Manage zones of a cluster
 7.manage-observer=Manage OBServers of a cluster
+8.backup-and-recovery=Backup and recovery
 6.cluster-resource-management=Cluster resource management
 7.merge-management=Major compaction management
-8.backup-and-recovery=Cluster backup and recovery
 9.parameters-1=Manage parameters
 5.tenant-functions=Manage tenants
 2.manage-basic-tenant-operations=Basic tenant operations

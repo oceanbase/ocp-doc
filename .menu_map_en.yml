@@ -14,7 +14,7 @@
 8.user-center=Personal center
 4.cluster-features=Manage clusters
 2.basic-operations=Basic cluster operations
-6.manage-a-zones=Manage zones of a cluster
+6.manage-a-zone=Manage zones of a cluster
 7.manage-observer=Manage OBServers of a cluster
 8.backup-and-recovery=Backup and recovery
 6.cluster-resource-management=Cluster resource management
@@ -52,6 +52,7 @@
 12.ob-user-and-permission-management=OceanBase user and privilege management
 13.ocpagent-management=OCP Agent management
 14.sql-performance=SQL performance
+15.backup-and-restoration-3=Backup and recovery
 16.other=Others
 17.appendix-1=Appendix
 1.oceanbase-cloud-platform-documentation=Document Overview
