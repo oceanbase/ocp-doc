@@ -18,13 +18,13 @@
 7.manage-observer=Manage OBServers of a cluster
 7.cluster-resource-management=Cluster resource management
 9.merge-management=Major compaction management
-10.backup-and-recovery=Backup and recovery
+10.cluster-backup-and-recovery=Backup and recovery
 11.parameters-1=Manage parameters
 5.tenant-functions=Manage tenants
 2.manage-basic-tenant-operations=Basic tenant operations
 10.sql-diagnostics=SQL diagnostics
 11.merge-management=Tenant major compaction management
-12.backup-and-recovery-a-tenant=Backup and recovery
+12.backup-and-recover-a-tenant=Backup and recovery
 13.session-management=Manage sessions
 14.parameters=Manage parameters
 6.host-features=Manage hosts
