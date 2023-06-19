@@ -42,6 +42,7 @@
 6.api-reference=API Reference
 3.cluster-information=Cluster information
 4.tenant-information=Tenant information
+19.ob-database-management=Database management
 5.host-module=Hosts
 6.software-package-1=Software packages
 7.obproxy-management=OBProxy management
