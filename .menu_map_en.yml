@@ -5,6 +5,7 @@
 5.prepare-metadb-and-monitordb=Prepare MetaDB and MonitorDB
 8.deploy-appendix=Appendix
 3.ob-cloud-platform=User Guide
+3.userguide-features=Features
 1.cluster-features=Clusters
 2.tenant-functions=Tenants
 3.host-features=Hosts
@@ -36,6 +37,7 @@
 5.api-reference=API Reference
 3.cluster-information=Cluster information
 4.tenant-information=Tenant information
+18.ob-database-management=OceanBase database management
 5.host-module=Hosts
 6.software-package-interface=Software packages
 7.api-obproxy-management=OBProxy management
