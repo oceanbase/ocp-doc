@@ -37,6 +37,7 @@
 5.api-reference=API 参考
 3.cluster-information=集群信息
 4.tenant-information=租户信息
+18.ob-database-management=数据库管理
 5.host-module=主机模块
 6.software-package-interface=软件包接口
 7.api-obproxy-management=OBProxy 管理
