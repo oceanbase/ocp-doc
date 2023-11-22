@@ -1,6 +1,7 @@
 200.product-introduction=产品简介
 400.restrictions=使用限制
 300.deployment-guide=部署 OceanBase 云平台
+100.deploying-enterprise-ocp=部署企业版 OceanBase 云平台
 100.deployment-overview=概述
 200.prepare-the-deployment-environment=准备部署环境
 300.deployment=部署 OCP
@@ -12,10 +13,15 @@
 200.deploying-a-high-availability-of-ocp=部署高可用 OCP
 400.deployment-faq=部署常见问题
 200.f5-ltm-and-alert-configuration=F5 LTM 及告警配置
+200.deploying-community-ocp=部署社区版 OceanBase 云平台
+300.installation-planning=安装规划
+700.deploy-appendix=附录
 400.upgrade-guide=升级 OceanBase 云平台
+100.upgrade-enterprise-ocp=升级企业版 OceanBase 云平台
 400.upgrade-ocp-guide=升级 OCP
 500.verify-after-upgrade=升级后验证
 600.upgrade-appendix=附录
+200.upgrade-community-ocp=升级社区版 OceanBase 云平台
 500.quickstart=快速入门
 600.cluster-functions=集群管理
 200.create-a-cluster=新建集群
