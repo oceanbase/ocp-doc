@@ -99,7 +99,7 @@
 400.oas-alert=OAS alerts
 500.appendix=Appendix
 200.api-reference=API Reference
-500.1.cluster-information=Cluster information
+450.cluster-information=Cluster information
 500.tenant-information=Tenant information
 1900.ob-database-management=OceanBase database management
 600.host-module=Hosts
