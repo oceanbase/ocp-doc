@@ -87,7 +87,7 @@
 400.manage-roles=管理角色
 500.manage-users=用户管理
 600.management-user-center=管理个人中心
-300.manage-password-box=管理密码箱
+700.manage-password-box=管理凭据
 300.common-o-m-problems=运维常见问题
 400.common-monitoring-problems=监控常见问题
 1800.sql-tuning-practices=SQL 调优实践
