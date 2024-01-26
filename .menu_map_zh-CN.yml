@@ -51,7 +51,7 @@
 500.manage-alert-channels=管理告警通道
 600.manage-alert-push=管理告警推送
 800.manage-blocking-conditions=管理告警屏蔽
-870.manage-monitor-market=监控大盘
+870.manage-monitor-dashboard=监控大盘
 880.manage-performance-monitoring=性能监控
 100.performance-monitoring-overview=使用监控管理
 200.manage-custom-monitoring=使用自定义监控功能
