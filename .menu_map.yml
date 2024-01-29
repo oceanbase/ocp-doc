@@ -85,9 +85,10 @@
 1600.system-management-features=系统管理
 300.manage-system-parameter=管理系统参数
 400.manage-roles=管理角色
-500.manage-users=用户管理
+500.manage-users=管理用户
 600.management-user-center=管理个人中心
 700.manage-password-box=管理凭据
+800.manage-tags=管理标签
 300.common-o-m-problems=运维常见问题
 400.common-monitoring-problems=监控常见问题
 1800.sql-tuning-practices=SQL 调优实践
