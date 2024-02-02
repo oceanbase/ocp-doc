@@ -56,6 +56,9 @@
 200.configure-the-rules=Configure Scheduling Rules
 400.initate-a-inspection=Initiate Inspection
 600.manage-inspection-report=Manage Inspection reports
+400.custom-monitoring-management=Use the custom monitoring feature
+300.manage-indicator-items=Manage indicator items
+400.manage-chart=Manage charts
 1000.diagnosis-and-tuning-fuctions=Diagnosis and tuning fuctions
 100.manage-sql-diagnosis=SQL Diagnostics
 100.sql-diagnostics-introduction=SQL Diagnostics Introduction
@@ -92,6 +95,7 @@
 300.common-sql-performance-tuning=General SQL Performance Tuning Scenarios
 100.execution-plan-optimization=Execution Plan Optimization
 200.index-optimization=Index Optimization
+1850.ocp-om-best-practices=O&M Best practices
 1900.reference-guide=Reference guide
 100.alarm-reference=Alarm reference
 200.ob-alert=OceanBase alerts
