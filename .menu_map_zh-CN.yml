@@ -80,8 +80,8 @@
 1100.backup-and-restoration-functions=备份恢复
 400.backup-now=立即备份
 500.regular-backup=定时备份
-100.manage-cluster-backup-strategy=管理集群备份策略
-200.manage-tenant-backup-strategy=管理租户备份策略
+100.manage-cluster-backup-strategy=管理集群级备份策略
+200.manage-tenant-backup-strategy=管理租户级备份策略
 600.manage-backup-tasks=管理备份任务
 800.regular-recovery=定时恢复
 1000.manage-backup-and-recovery-service=管理备份恢复服务
