@@ -27,6 +27,7 @@
 600.cluster-functions=集群管理
 200.create-a-cluster=新建集群
 300.manage-a-cluster=管理集群
+950.manage-cluster-arbitration-services=管理集群仲裁服务
 1200.manage-om-configuration=管理运维配置
 500.manage-a-zone=管理 Zone
 600.manage-an-observer=管理 OBServer
@@ -34,6 +35,7 @@
 1100.manage-cluster-merge=管理集群合并
 1300.manage-cluster-parameters=管理集群参数
 1350.manage-arbitration-services=管理仲裁服务
+1370.manage-service-groups=管理仲裁服务组
 700.tenant-functions=租户管理
 600.manage-a-tenant=管理租户
 900.manage-tenant-topulogy=管理拓扑图
@@ -80,8 +82,8 @@
 1100.backup-and-restoration-functions=备份恢复
 400.backup-now=立即备份
 500.regular-backup=定时备份
-100.manage-cluster-backup-strategy=管理集群备份策略
-200.manage-tenant-backup-strategy=管理租户备份策略
+100.manage-cluster-backup-strategy=管理集群级备份策略
+200.manage-tenant-backup-strategy=管理租户级备份策略
 600.manage-backup-tasks=管理备份任务
 800.regular-recovery=定时恢复
 1000.manage-backup-and-recovery-service=管理备份恢复服务
