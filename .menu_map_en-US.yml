@@ -63,7 +63,10 @@
 200.manage-transaction-diagnostics=Transaction Diagnostics
 300.manage-session=Manage sessions
 600.manage-the-reports=View diagnostics reports
-900.use-the-inspection-feature=Inspection Management
+1050.operation-and-maintenance-functions=O&M Management
+100.manage-information-collection=Manage Information Collection
+200.manage-plans=Manage Plans
+300.use-the-inspection-feature=Manage Inspection
 200.configure-the-rules=Configure Scheduling Rules
 400.initate-a-inspection=Initiate Inspection
 600.manage-inspection-report=Manage Inspection reports
@@ -116,6 +119,7 @@
 1000.alert=Alerts
 200.alert-events=Alert events
 300.alert-notification=Alert notifications
+1050.inspection=Inspection
 1100.task-management=Task management
 1200.ocp-historical-events=OCP event history
 1300.ob-user-and-permission-management=OceanBase user and privilege management
@@ -123,6 +127,7 @@
 1500.sql-performance=SQL performance
 1600.backup-and-restoration-3=Backup and recovery
 1700.health-examination=Health examination
+1800.performance-report=Performance Report
 300.monitoring-indicator-reference=Metric reference
 300.ob-cluster=OceanBase cluster
 400.oceanbase-database-tenant=OceanBase Database tenant
@@ -130,3 +135,5 @@
 600.host=Host
 2000.faq=FAQ
 2100.appendix=Appendix
+2200.release-notes=Release Notes
+98.rn-43x=V4.3

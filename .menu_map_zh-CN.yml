@@ -117,6 +117,7 @@
 1000.alert=告警
 200.alert-events=告警事件
 300.alert-notification=告警通知
+1050.inspection=巡检
 1100.task-management=任务管理接口
 1200.ocp-historical-events=OCP 历史事件
 1300.ob-user-and-permission-management=OceanBase 用户与权限管理
@@ -124,6 +125,7 @@
 1500.sql-performance=SQL 性能
 1600.backup-and-restoration-3=备份恢复
 1700.health-examination=健康检查
+1800.performance-report=性能报告
 300.monitoring-indicator-reference=监控指标参考
 300.ob-cluster=OceanBase 集群
 400.oceanbase-database-tenant=OceanBase 租户
