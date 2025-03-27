@@ -27,13 +27,15 @@
 600.cluster-functions=Cluster Management
 200.create-a-cluster=Create a cluster
 300.manage-a-cluster=Manage clusters
+950.manage-cluster-arbitration-services=Manage Arbitration Service of a cluster
 1200.manage-om-configuration=Manage O&M configuration
 500.manage-a-zone=Manage zones of a cluster
 600.manage-an-observer=Manage OBServers of a cluster
 1000.manage-cluster-resource=Manage cluster resource
 1100.manage-cluster-merge=Manage major compaction of a cluster
 1300.manage-cluster-parameters=Manage cluster parameters
-1350.manage-arbitration-services=Manage Arbitration Service
+1350.manage-arbitration-services=Manage Arbitration Services
+1370.manage-service-groups=Manage Service Groups
 700.tenant-functions=Tenant Management
 600.manage-a-tenant=Manage tenants
 900.manage-tenant-topulogy=Manage topulogy of a tenant
