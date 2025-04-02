@@ -42,6 +42,7 @@
 200.user-management-under-an-oracle-tenant=Manage user under an Oracle tenant
 1250.manage-resource-isolation=Manage resource isolation
 1400.manage-tenant-merge=Manage major compaction under a tenant
+1450.manage-statistical-information=Manage statistical information
 1600.manage-tenant-parameters=Manage tenant parameters
 800.obproxy-functions=OBProxy Management
 300.manage-a-obproxy-cluster=Manage OBProxy Clusters
