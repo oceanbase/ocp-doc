@@ -54,6 +54,7 @@
 500.manage-binlog-instance=管理 Binlog 实例
 600.manage-binlog-server=管理 Binlog Server
 850.host-features=主机管理
+100.manage-a-host=管理主机
 860.alert-management=告警中心
 300.manage-alert-rules=管理告警规则
 400.manage-alert-templates=管理告警模板
