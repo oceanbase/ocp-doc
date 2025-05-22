@@ -79,6 +79,8 @@
 200.manage-transaction-diagnostics=事务诊断
 300.manage-session=会话管理
 600.manage-the-reports=诊断报告
+1075.ai-management=AI 助手
+1076.ai-management=AI 助手
 1100.backup-and-restoration-functions=备份恢复
 400.backup-now=立即备份
 500.regular-backup=定时备份
