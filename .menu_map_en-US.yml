@@ -51,8 +51,8 @@
 400.manage-a-obproxy-server=Manage OBProxy Servers
 820.binlog-service-fuctions=Binlog Service Management
 300.manage-a-binlog-cluster=Manage Binlog Clusters
-500.manage-binlog-instance=Manage Binlog Instance
-600.manage-binlog-server=Manage Binlog Server
+400.manage-binlog-instance=Manage Binlog Instance
+500.manage-binlog-server=Manage Binlog Server
 850.host-features=Host Management
 860.alert-management=Alert Management
 300.manage-alert-rules=Manage alert rules
