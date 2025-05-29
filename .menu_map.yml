@@ -51,8 +51,8 @@
 400.manage-a-obproxy-server=管理 OBProxy Server
 820.binlog-service-fuctions=Binlog 服务管理
 300.manage-a-binlog-cluster=管理 Binlog 集群
-500.manage-binlog-instance=管理 Binlog 实例
-600.manage-binlog-server=管理 Binlog Server
+400.manage-binlog-instance=管理 Binlog 实例
+500.manage-binlog-server=管理 Binlog Server
 850.host-features=主机管理
 100.manage-a-host=管理主机
 860.alert-management=告警中心
