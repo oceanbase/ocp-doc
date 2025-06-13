@@ -82,6 +82,7 @@
 200.manage-transaction-diagnostics=事务诊断
 300.manage-session=会话管理
 600.manage-the-reports=诊断报告
+1075.ai-management=AI 助手
 1100.backup-and-restoration-functions=备份恢复
 400.backup-now=立即备份
 500.regular-backup=定时备份
@@ -105,6 +106,8 @@
 300.manage-a-user=管理用户
 300.manage-tags=管理标签
 450.manage-external-integration=管理外部集成
+100.manage-ai-models=管理 AI 模型
+200.manage-sso-integration=管理 SSO 集成
 500.manage-system-parameter=管理系统参数
 700.manage-user-center=管理个人中心
 1800.sql-tuning-practices=SQL 调优实践
