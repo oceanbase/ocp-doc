@@ -34,6 +34,7 @@
 600.manage-an-observer=管理 OBServer
 1000.manage-cluster-resource=查看集群资源管理
 1100.manage-cluster-merge=管理集群合并
+1200.manage-security-configuration=管理安全配置
 1300.manage-cluster-parameters=管理集群参数
 1350.manage-arbitration-services=管理仲裁服务
 1370.manage-service-groups=管理仲裁服务组
@@ -97,6 +98,7 @@
 1500.manage-software-packages=软件包管理
 1600.system-management-features=系统管理
 100.manage-password-box=管理凭据
+150.manage-certificates=管理证书
 200.manage-users=管理用户及权限
 100.manage-a-organization=管理组织
 200.manage-a-role=管理角色
