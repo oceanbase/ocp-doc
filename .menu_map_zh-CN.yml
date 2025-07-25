@@ -112,8 +112,6 @@
 800.obproxy-management=OBProxy 管理
 900.monitoring=监控
 1000.alert=告警
-200.alert-events=告警事件
-300.alert-notification=告警通知
 1100.task-management=任务管理接口
 1200.ocp-historical-events=OCP 历史事件
 1300.ob-user-and-permission-management=OceanBase 用户与权限管理
