@@ -34,6 +34,7 @@
 600.manage-an-observer=Manage OBServers of a cluster
 1000.manage-cluster-resource=Manage cluster resource
 1100.manage-cluster-merge=Manage major compaction of a cluster
+1200.manage-security-configuration=Manage security configurations
 1300.manage-cluster-parameters=Manage cluster parameters
 1350.manage-arbitration-services=Manage Arbitration Services
 1370.manage-service-groups=Manage Service Groups
@@ -55,6 +56,7 @@
 400.manage-binlog-instance=Manage Binlog Instance
 500.manage-binlog-server=Manage Binlog Server
 850.host-features=Host Management
+100.manage-a-host=Manage hosts
 860.alert-management=Alert Management
 300.manage-alert-rules=Manage alert rules
 400.manage-alert-templates=Manage alert templates
@@ -177,3 +179,4 @@
 2100.appendix=Appendix
 2200.release-notes=Release Notes
 98.rn-43x=V4.3
+200.rn-40x=V4.0
