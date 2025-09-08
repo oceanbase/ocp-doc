@@ -1,3 +1,4 @@
+50.whats-new=What's New
 200.product-introduction=Product Introduction
 400.restrictions=Limits
 300.deployment-guide=Deploy OceanBase Cloud Platform (OCP)
@@ -79,6 +80,7 @@
 200.configure-the-rules=Configure Scheduling Rules
 400.initate-a-inspection=Initiate Inspection
 600.manage-inspection-report=Manage Inspection reports
+1075.ai-management=AI Assistant
 1100.backup-and-restoration-functions=Backup and Recovery
 400.backup-now=Backup now
 500.regular-backup=Regular backup
