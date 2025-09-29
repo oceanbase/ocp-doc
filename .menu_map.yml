@@ -173,8 +173,8 @@
 800.other-tenants-exceptions=其它租户相关异常
 500.error-code-reference=错误码参考
 200.observer-error-code=内核错误码
-100.mysql-error-code=错误码（MySQL 模式）
-200.oracle-error-code=错误码（Oracle 模式）
+100.error-code-of-mysql-mode=错误码（MySQL 模式）
+200.error-code-of-oracle-mode=错误码（Oracle 模式）
 2000.faq=常见问题
 300.common-o-m-problems=运维常见问题
 400.common-monitoring-problems=监控常见问题
