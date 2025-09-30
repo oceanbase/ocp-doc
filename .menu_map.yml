@@ -108,6 +108,7 @@
 450.manage-external-integration=管理外部集成
 100.manage-ai-models=管理 AI 模型
 200.manage-sso-integration=管理 SSO 集成
+300.manage-sql-audit=管理 SQL Audit
 500.manage-system-parameter=管理系统参数
 700.manage-user-center=管理个人中心
 1800.sql-tuning-practices=SQL 调优实践
