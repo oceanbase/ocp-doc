@@ -174,8 +174,8 @@
 800.other-tenants-exceptions=Other Tenants Exceptions
 500.error-code-reference=Error codes reference
 200.observer-error-code=OBServer error codes
-100.mysql-error-code=MySQL mode
-200.oracle-error-code=Oracle mode
+100.error-code-of-mysql-mode=MySQL mode
+200.error-code-of-oracle-mode=Oracle mode
 2000.faq=FAQ
 2100.appendix=Appendix
 2200.release-notes=Release Notes
