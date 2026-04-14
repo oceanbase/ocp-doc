@@ -1,3 +1,6 @@
+|slug|1500-clear-restore-resource|
+|---|---|
+
 # Clear added restore resources
 
 ## Purpose
